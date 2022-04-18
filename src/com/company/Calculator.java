@@ -72,8 +72,7 @@ public class Calculator implements ActionListener {
         b3.addActionListener(this);
         bAdd.addActionListener(this);
 
-
-
+        
         b4.setBounds(35,270,50,50);
         b5.setBounds(105,270,50,50);
         b6.setBounds(175,270,50,50);
