@@ -119,7 +119,6 @@ public class Calculator implements ActionListener {
         c.add(bClear);
         bDelete.addActionListener(this);
         bClear.addActionListener(this);
-
     }
 
 
